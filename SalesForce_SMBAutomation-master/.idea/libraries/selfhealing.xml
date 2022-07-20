@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="selfhealing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/test/java/com/nttdata/testframework/drivers/Selfhealing/selfhealing.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/test/java/com/nttdata/testframework/drivers/Selfhealing/selfhealing.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/test/java/com/nttdata/testframework/drivers/Selfhealing/selfhealing.jar!/" />
+    </SOURCES>
+  </library>
+</component>

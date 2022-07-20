@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selfhealing12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SalesForce_SMBAutomation-master/src/test/resources/selfhealing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/SalesForce_SMBAutomation-master/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="selfhealing2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SalesForce_SMBAutomation-master/src/test/java/com/nttdata/testframework/drivers/Selfhealing/selfhealing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

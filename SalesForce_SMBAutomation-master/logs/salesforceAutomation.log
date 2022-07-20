@@ -1,0 +1,9 @@
+INFO  2020-12-17 15:30:27,671 [main] SpringBootStep:logStarting(50): Starting SpringBootStep on LASST260748 with PID 19840 (started by sekark1 in C:\Users\sekark1\IdeaProjects\RCS_Automation)
+DEBUG 2020-12-17 15:30:27,730 [main] SpringBootStep:logStarting(53): Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+INFO  2020-12-17 15:30:27,736 [main] SpringBootStep:logStartupProfileInfo(652): No active profile set, falling back to default profiles: default
+INFO  2020-12-17 15:30:30,005 [main] SystemDetails:<init>(56): detected OS: [Windows 10 , 10.0]
+INFO  2020-12-17 15:30:30,016 [main] Configuration:read(44): loading configuration: /C:/Users/sekark1/IdeaProjects/RCS_Automation/target/test-classes/config.properties
+INFO  2020-12-17 15:30:30,018 [main] Configuration:<init>(32): PageFactory is configured for deviceType [null]
+INFO  2020-12-17 15:30:40,803 [main] SpringBootStep:logStarted(59): Started SpringBootStep in 14.065 seconds (JVM running for 21.715)
+DEBUG 2020-12-17 15:30:40,862 [main] SpringBootStep:beforeScenario(51): *****[rcsRegressionSuite][Scenario #1:  ] *****
+DEBUG 2020-12-17 15:30:58,454 [main] SpringBootStep:afterScenario(69): *****[PASS][Scenario #1:  ] *****

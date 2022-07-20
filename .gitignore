@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/out/production/SalesForce_SMBAutomation-master/
+/out/test/SalesForce_SMBAutomation-master/
